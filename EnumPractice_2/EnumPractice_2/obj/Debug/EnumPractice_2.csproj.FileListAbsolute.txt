@@ -1,0 +1,7 @@
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\bin\Debug\EnumPractice_2.exe.config
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\bin\Debug\EnumPractice_2.exe
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\bin\Debug\EnumPractice_2.pdb
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\obj\Debug\EnumPractice_2.csprojAssemblyReference.cache
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\obj\Debug\EnumPractice_2.csproj.CoreCompileInputs.cache
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\obj\Debug\EnumPractice_2.exe
+D:\Alriosa Code Repo\EnumPractice_1\EnumPractice_2\EnumPractice_2\obj\Debug\EnumPractice_2.pdb
