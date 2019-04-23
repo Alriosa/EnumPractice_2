@@ -23,10 +23,10 @@ namespace EnumPractice_2
         static void Main(string[] args)
         {
             int var1 = (int) Day.Sun;
-            int var2 = (int) Day.Fri;
+            int var2 = (int) Day.Sat;
 
             Console.WriteLine("Sun = {0}", var1);
-            Console.WriteLine("Fri = {0}", var2);
+            Console.WriteLine("Sat = {0}", var2);
             Console.ReadKey();
         }
     }
