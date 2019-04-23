@@ -13,7 +13,7 @@ namespace EnumPractice_2
 
         enum Day
         {
-            Sun,
+            Sun = 1 ,
             Mon,
             Tue,
             Wed,
